@@ -1,0 +1,3 @@
+var myvariable;
+myvariable = 12
+console.log(myvariable);
